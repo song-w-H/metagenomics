@@ -1,23 +1,4 @@
-#!/usr/bin/env python
-######################################################################
-#extract_kraken_reads.py takes in a kraken-style output and kraken report
-#and a taxonomy level to extract reads matching that level
-#Copyright (C) 2019-2023 Jennifer Lu, jennifer.lu717@gmail.com
-#
-#This file is part of KrakenTools
-#KrakenTools is free software; you can redistribute it and/or modify
-#it under the terms of the GNU General Public License as published by
-#the Free Software Foundation; either version 3 of the license, or
-#(at your option) any later version.
-#
-#This program is distributed in the hope that it will be useful,
-#but WITHOUT ANY WARRANTY; without even the implied warranty of 
-#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the 
-#GNU General Public License for more details.
-#
-#You should have received a copy of the GNU General Public License
-#along with this program; if not, see <http://www.gnu.org/licenses/>.
-#
+
 ######################################################################
 #Jennifer Lu, jlu26@jhmi.edu
 #Updated: 06/03/2019
