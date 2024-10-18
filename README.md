@@ -15,6 +15,7 @@ Conda install:
 
 ## 1-2.BWA-MEM2
 Conda install:
+
     $ conda install bioconda::bwa-mem2
 
 ## 1-2.kraken2
