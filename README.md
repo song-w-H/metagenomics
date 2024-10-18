@@ -1,6 +1,6 @@
 Metagenomics shotgun sequencing pipline
 ===========
-
+Here is the installation process for metagenomics analysis.
 
 # 1.Installation
 ------------
