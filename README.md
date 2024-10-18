@@ -13,6 +13,9 @@ Conda install:
     $ conda install bioconda::sickle
     $ conda install bioconda/label/cf201901::sickle
 
+## 1-2.BWA-MEM2
+Conda install:
+    $ conda install bioconda::bwa-mem2
 
 ## 1-2.kraken2
 Conda install:
