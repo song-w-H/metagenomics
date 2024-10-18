@@ -18,7 +18,7 @@ Conda install:
 
     $ conda install bioconda::bwa-mem2
 
-## 1-2.kraken2
+## 1-3.kraken2
 Conda install:
 
     $ conda install bioconda::kraken2
@@ -30,7 +30,7 @@ Conda install:
     $ cp $KRAKEN2_DIR/kraken2{,-build,-inspect} $HOME/bin
     
     
-## 1-3.kraken2-biome
+## 1-4.kraken2-biome
 Conda install:
 
     $ conda install bioconda::kraken2
@@ -56,5 +56,9 @@ From docker:
     $ docker run -it --rm -v ${pwd}:/data kraken_biom
 
 
-## 1-4.Humann 3.0
+## 1-5.Humann 3.0
     $ pip install humann
+
+
+# 2. Data base construction
+------------
