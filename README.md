@@ -4,7 +4,14 @@ Metagenomics shotgun sequencing pipline
 
 # 1.Installation
 ------------
-## 1-1.kraken2
+## 1-1.sickle
+Conda install:
+
+    $ conda install bioconda::sickle
+    $ conda install bioconda/label/cf201901::sickle
+
+
+## 1-2.kraken2
 Conda install:
 
     $ conda install bioconda::kraken2
@@ -16,7 +23,7 @@ Conda install:
     $ cp $KRAKEN2_DIR/kraken2{,-build,-inspect} $HOME/bin
     
     
-## 1-2.kraken2-biome
+## 1-3.kraken2-biome
 Conda install:
 
     $ conda install bioconda::kraken2
@@ -42,5 +49,5 @@ From docker:
     $ docker run -it --rm -v ${pwd}:/data kraken_biom
 
 
-## 1-3.Humann 3.0
+## 1-4.Humann 3.0
     $ pip install humann
