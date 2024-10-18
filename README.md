@@ -1,8 +1,10 @@
 Metagenomics shotgun sequencing pipline
 ===========
-Here is the installation process for metagenomics analysis.
+
 
 # 1.Installation
+
+Here is the installation process for metagenomics analysis.
 ------------
 ## 1-1.sickle
 Conda install:
